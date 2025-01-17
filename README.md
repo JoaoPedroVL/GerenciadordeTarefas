@@ -26,4 +26,4 @@ Este é um projeto simples de Gerenciador de Tarefas desenvolvido em **C#**, uti
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-tarefas-csharp.git
+   git clone https://github.com/JoaoPedroVL/GerenciadordeTarefas
