@@ -1,0 +1,17 @@
+D:\PROJETOS\app1\app1\bin\Debug\net8.0-windows\app1.exe
+D:\PROJETOS\app1\app1\bin\Debug\net8.0-windows\app1.deps.json
+D:\PROJETOS\app1\app1\bin\Debug\net8.0-windows\app1.runtimeconfig.json
+D:\PROJETOS\app1\app1\bin\Debug\net8.0-windows\app1.dll
+D:\PROJETOS\app1\app1\bin\Debug\net8.0-windows\app1.pdb
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.Form1.resources
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.Form2.resources
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.csproj.GenerateResource.cache
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.AssemblyInfoInputs.cache
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.AssemblyInfo.cs
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.csproj.CoreCompileInputs.cache
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.dll
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\refint\app1.dll
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.pdb
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\app1.genruntimeconfig.cache
+D:\PROJETOS\app1\app1\obj\Debug\net8.0-windows\ref\app1.dll
